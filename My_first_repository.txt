@@ -1,4 +1,4 @@
-Мій перший репозиторій
+
 echo "# LR_1" >> README.md
 git init
 git add README.md
